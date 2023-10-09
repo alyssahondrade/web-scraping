@@ -15,7 +15,7 @@ Github repository at: [https://github.com/alyssahondrade/webscraping-challenge.g
 ## Introduction
 
 ### Goal
-The goal of this project is to scrape webpages with information on Mars and analysis Mars weather.
+The goal of this project is to scrape webpages with information on Mars to conduct analysis Mars weather.
 
 ### Repository Structure
 All documents are held in the root directory.
