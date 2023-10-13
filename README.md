@@ -1,5 +1,5 @@
 # webscraping-challenge
-Module 11 Challenge
+Module 11 Challenge - UWA/edX Data Analytics Bootcamp
 
 Github repository at: [https://github.com/alyssahondrade/webscraping-challenge.git](https://github.com/alyssahondrade/webscraping-challenge.git)
 
